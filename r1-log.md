@@ -17,3 +17,6 @@ Later managed to solve a problem on [Binary Search Trees](https://www.hackerrank
 ### R1D3 - Jan 3, 2018
 
 Been learning D3js in terms of The Web Developer Bootcamp course on Udemy. Going hard. Discouraging. 4 hours of it literally destroyed me. Taking rest and will go on tomorrow.
+
+### R1D4 - Jan 4, 2018
+Managed to go through D3 data joins and basic of svg in terms of the course described in day 3.
