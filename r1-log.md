@@ -20,3 +20,8 @@ Been learning D3js in terms of The Web Developer Bootcamp course on Udemy. Going
 
 ### R1D4 - Jan 4, 2018
 Managed to go through D3 data joins and basic of svg in terms of the course described in day 3.
+
+###R1D5 - Jan 5, 2018
+
+Started with SVG stuff today, covered the rest of the material, did couple of exercises to make sure I'm comfortable with SVG basics. Then moved to D3. Now I can draw fancy SVG graphs. Well, now that fancy at the moment, but I'll get there soon!
+Here's the link to the exercise I did [Click](https://codepen.io/ExzoTiQ/pen/ppWXQo)
