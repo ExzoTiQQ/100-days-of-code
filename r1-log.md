@@ -25,3 +25,7 @@ Managed to go through D3 data joins and basic of svg in terms of the course desc
 
 Started with SVG stuff today, covered the rest of the material, did couple of exercises to make sure I'm comfortable with SVG basics. Then moved to D3. Now I can draw fancy SVG graphs. Well, now that fancy at the moment, but I'll get there soon!
 Here's the link to the exercise I did [Click](https://codepen.io/ExzoTiQ/pen/ppWXQo)
+
+### R1D6 - Jan 6, 2018
+
+Didn't have much free time today, though I still managed to solve couple of issues on Hackerrank.com concerning linked lists. Gonna have more time tomorrow.
