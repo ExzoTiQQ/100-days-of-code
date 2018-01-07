@@ -29,3 +29,7 @@ Here's the link to the exercise I did [Click](https://codepen.io/ExzoTiQ/pen/ppW
 ### R1D6 - Jan 6, 2018
 
 Didn't have much free time today, though I still managed to solve couple of issues on Hackerrank.com concerning linked lists. Gonna have more time tomorrow.
+
+### R1D7 - Jan 7, 2018
+
+Todat learned to draw fancy scatterplot graphs and to make my graphs overall more informative. It took me a lot of time today to figure out how things work under the hood. Still not sure if I understood everything. But I'll get there soon. Gotta finish D3 part of the course tomorrow.
