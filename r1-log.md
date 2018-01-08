@@ -32,4 +32,9 @@ Didn't have much free time today, though I still managed to solve couple of issu
 
 ### R1D7 - Jan 7, 2018
 
-Todat learned to draw fancy scatterplot graphs and to make my graphs overall more informative. It took me a lot of time today to figure out how things work under the hood. Still not sure if I understood everything. But I'll get there soon. Gotta finish D3 part of the course tomorrow.
+Today learned to draw fancy scatterplot graphs and to make my graphs overall more informative. It took me a lot of time today to figure out how things work under the hood. Still not sure if I understood everything. But I'll get there soon. Gotta finish D3 part of the course tomorrow.
+
+### R1D8 - Jan 8, 2018
+
+I continue learning D3. Today I got acquainted with histograms. Quite hard stuff, coding part is very confusing. But the result is worth it. After today's practice I enjoy D3 even more. Piecharts tomorrow, hopefully.
+
