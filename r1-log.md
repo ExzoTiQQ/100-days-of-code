@@ -38,3 +38,6 @@ Today learned to draw fancy scatterplot graphs and to make my graphs overall mor
 
 I continue learning D3. Today I got acquainted with histograms. Quite hard stuff, coding part is very confusing. But the result is worth it. After today's practice I enjoy D3 even more. Piecharts tomorrow, hopefully.
 
+### R1D9 - Jan 9, 2018
+
+Today I deployed a node/express/mongo app for my father's business via heroku. Also did some minor changed on the app. It took me more time than I expected, because it was my first time. Then I still managed to learn d3 pie charts. I didn't cover all the desired material today, though still had a good portion. Pie charts are easier than histograms in terms of code.
