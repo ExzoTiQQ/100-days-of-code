@@ -41,3 +41,7 @@ I continue learning D3. Today I got acquainted with histograms. Quite hard stuff
 ### R1D9 - Jan 9, 2018
 
 Today I deployed a node/express/mongo app for my father's business via heroku. Also did some minor changed on the app. It took me more time than I expected, because it was my first time. Then I still managed to learn d3 pie charts. I didn't cover all the desired material today, though still had a good portion. Pie charts are easier than histograms in terms of code.
+
+### R1D10 - Jan 10, 2018
+
+Did some node coding along the day, still improving some parts of the app I deployed yesterday. Solved 4 challenges on hackerrank in terms of their "30 days of code" challenge.
