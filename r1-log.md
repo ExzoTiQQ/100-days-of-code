@@ -45,3 +45,7 @@ Today I deployed a node/express/mongo app for my father's business via heroku. A
 ### R1D10 - Jan 10, 2018
 
 Did some node coding along the day, still improving some parts of the app I deployed yesterday. Solved 4 challenges on hackerrank in terms of their "30 days of code" challenge.
+
+### R1D11 - Jan 11, 2018
+
+Today I managed to finish d3 pie charts. Feeling confident building them. Also covered d3 async stuff and d3 transitions, though still have to practice with those. Also doing a lot of node app maintenance, i.e. adding some new functionality and fixing some issues.
