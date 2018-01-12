@@ -49,3 +49,7 @@ Did some node coding along the day, still improving some parts of the app I depl
 ### R1D11 - Jan 11, 2018
 
 Today I managed to finish d3 pie charts. Feeling confident building them. Also covered d3 async stuff and d3 transitions, though still have to practice with those. Also doing a lot of node app maintenance, i.e. adding some new functionality and fixing some issues.
+
+### R1D12 - Jan 12, 2018
+
+Going to Warsaw by bus. Have very poor internet connection. Managed to create a complete 15 puzzle using pure JS. It's alsways good to refresh basic things in memory.
