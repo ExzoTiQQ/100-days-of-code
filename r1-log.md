@@ -53,3 +53,7 @@ Today I managed to finish d3 pie charts. Feeling confident building them. Also c
 ### R1D12 - Jan 12, 2018
 
 Going to Warsaw by bus. Have very poor internet connection. Managed to create a complete 15 puzzle using pure JS. It's alsways good to refresh basic things in memory.
+
+### R1D13 - Jan 13, 2018
+
+Not many things done today. Feeling tired after 29 hour trip. Managed to review d3 material. Now feeling more confident with d3 async methods and transitions. Also covered d3 tooltips today.
