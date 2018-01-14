@@ -57,3 +57,7 @@ Going to Warsaw by bus. Have very poor internet connection. Managed to create a 
 ### R1D13 - Jan 13, 2018
 
 Not many things done today. Feeling tired after 29 hour trip. Managed to review d3 material. Now feeling more confident with d3 async methods and transitions. Also covered d3 tooltips today.
+
+### R1D14 - Jan 14, 2018
+
+Covered geoJson, topoJson d3 stuff. Have built some fancy maps in terms of udemy course exercises. Also covered force-directed graphs. All this stuff is confusing as hell, but it allows to build cool things. Tomorrow last section dedicated to d3 and I'm moving to React, finally.
