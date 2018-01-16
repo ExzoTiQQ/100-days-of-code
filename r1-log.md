@@ -61,3 +61,11 @@ Not many things done today. Feeling tired after 29 hour trip. Managed to review 
 ### R1D14 - Jan 14, 2018
 
 Covered geoJson, topoJson d3 stuff. Have built some fancy maps in terms of udemy course exercises. Also covered force-directed graphs. All this stuff is confusing as hell, but it allows to build cool things. Tomorrow last section dedicated to d3 and I'm moving to React, finally.
+
+### R1D15 - Jan 15, 2018
+
+Build a fancy data dashboard using D3. Here's a codepen link [Click](https://codepen.io/ExzoTiQ/full/mpGqEK/). I've had enough of d3 in last two weeks, so I'm switching to React & Redux as soon as I have enough free time, because this week I have finals at my uni.
+
+### R1D16 - Jan 16, 2018
+
+I solved couple of challenges on Hackerrank today evening with my groupmate Alex. We had some sorting stuff and string processing. Short session today, because I feel braindead after 3 final exams at uni.
