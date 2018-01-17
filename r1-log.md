@@ -69,3 +69,7 @@ Build a fancy data dashboard using D3. Here's a codepen link [Click](https://cod
 ### R1D16 - Jan 16, 2018
 
 I solved couple of challenges on Hackerrank today evening with my groupmate Alex. We had some sorting stuff and string processing. Short session today, because I feel braindead after 3 final exams at uni.
+
+### R1D17 - Jan 17, 2018
+
+Lacking time today, prepping to final test tomorrow. Took an hour of rest from that to solve 5 string related challenges on hackerrank. Unfortunately that's it for day 17. :(
