@@ -73,3 +73,7 @@ I solved couple of challenges on Hackerrank today evening with my groupmate Alex
 ### R1D17 - Jan 17, 2018
 
 Lacking time today, prepping to final test tomorrow. Took an hour of rest from that to solve 5 string related challenges on hackerrank. Unfortunately that's it for day 17. :(
+
+### R1D18 - Jan 18, 2018
+
+Same as yesterday, total lack of time because of exams. Managed to solve 4-5 challenges on hackerrank, math-oriented stuff today. Hour of coding is better than no coding at all.
