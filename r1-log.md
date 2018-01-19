@@ -77,3 +77,7 @@ Lacking time today, prepping to final test tomorrow. Took an hour of rest from t
 ### R1D18 - Jan 18, 2018
 
 Same as yesterday, total lack of time because of exams. Managed to solve 4-5 challenges on hackerrank, math-oriented stuff today. Hour of coding is better than no coding at all.
+
+### R1D19 - Jan 19, 2018
+
+Dived back into React. I reviewed the basic stuff, such as props, component structure, children, build couple of basic things just for the sake of reviewing the material. Going to cover the rest tomorrow.
