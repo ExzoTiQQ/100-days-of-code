@@ -81,3 +81,7 @@ Same as yesterday, total lack of time because of exams. Managed to solve 4-5 cha
 ### R1D19 - Jan 19, 2018
 
 Dived back into React. I reviewed the basic stuff, such as props, component structure, children, build couple of basic things just for the sake of reviewing the material. Going to cover the rest tomorrow.
+
+### R1D20 - Jan 20, 2018
+
+Covered React state, events and forms handling and lifecycle. I have full stack React app in next chapter of my udemy course and I'm really excited about it.
