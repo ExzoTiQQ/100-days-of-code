@@ -85,3 +85,7 @@ Dived back into React. I reviewed the basic stuff, such as props, component stru
 ### R1D20 - Jan 20, 2018
 
 Covered React state, events and forms handling and lifecycle. I have full stack React app in next chapter of my udemy course and I'm really excited about it.
+
+### R1D21 - Jan 21, 2018
+
+Did some React warm-up exercises in terms of Udemy course, and then I moved to building things. I managed to implement a memory game using React. Took quite some time, but definitely worth it. Here's the link [Memory Game](https://github.com/ExzoTiQQ/react-memory-game)
