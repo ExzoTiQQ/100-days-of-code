@@ -89,3 +89,7 @@ Covered React state, events and forms handling and lifecycle. I have full stack 
 ### R1D21 - Jan 21, 2018
 
 Did some React warm-up exercises in terms of Udemy course, and then I moved to building things. I managed to implement a memory game using React. Took quite some time, but definitely worth it. Here's the link [Memory Game](https://github.com/ExzoTiQQ/react-memory-game)
+
+### R1D22 - Jan 22, 2018
+
+Not that much real coding today. Did some UX improvements to the node app I have running, and managed to solve some easy-to-intermediate challenges on hackerrank platform by the end of the day. Rest of the time I was reading a tech interview book, because I feel like getting a dev job soon :P
