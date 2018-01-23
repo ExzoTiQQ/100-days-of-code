@@ -93,3 +93,7 @@ Did some React warm-up exercises in terms of Udemy course, and then I moved to b
 ### R1D22 - Jan 22, 2018
 
 Not that much real coding today. Did some UX improvements to the node app I have running, and managed to solve some easy-to-intermediate challenges on hackerrank platform by the end of the day. Rest of the time I was reading a tech interview book, because I feel like getting a dev job soon :P
+
+### R1D23 - Jan 23, 2018
+
+Didn't have much time today, due to the last final exam tomorrow. Still managed to allocate ~2 hours for challenge solving at Hackerrank. My algorithms are getting better, I manage to solve tasks significantly faster.
