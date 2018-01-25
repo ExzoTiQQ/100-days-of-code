@@ -97,3 +97,11 @@ Not that much real coding today. Did some UX improvements to the node app I have
 ### R1D23 - Jan 23, 2018
 
 Didn't have much time today, due to the last final exam tomorrow. Still managed to allocate ~2 hours for challenge solving at Hackerrank. My algorithms are getting better, I manage to solve tasks significantly faster.
+
+### R1D24 - Jan 24, 2018
+
+Was solving hackerrank complex ish stuff. Figured out that JS Sets are actually a lot faster than arrays if we consider big datasets. Forgot to update the log that day, so adding it on day 25.
+
+### R1D25 - Jan 25, 2018
+
+React today. Built another simple React game, this time featuring component lifecycle methods. Well, one method, which is componentDidMount. Though, now I have an idea on its usecases, which is good. Here's the project [Guess The Flag](https://github.com/ExzoTiQQ/guess-the-flag)
