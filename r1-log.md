@@ -106,7 +106,11 @@ Was solving hackerrank complex ish stuff. Figured out that JS Sets are actually 
 
 React today. Built another simple React game, this time featuring component lifecycle methods. Well, one method, which is componentDidMount. Though, now I have an idea on its usecases, which is good. Here's the project [Guess The Flag](https://github.com/ExzoTiQQ/guess-the-flag)
 
-###R1D26 - Jan 26, 2018
+### R1D26 - Jan 26, 2018
 
 Yesterday I received two recruitment test tasks from 2 companies, so today I was trying to solve them. One was on codility platform, where I failed and score 54/100. For some reason one of my solutions didn't get accepted, though it has passed all the example test-cases. 
-And concerning second task, this is a clown fiesta. That thing is based on google web starter kit, which is not supported at the moment. I spent 3 hours trying to set up the project, and still didn't manage to do it. I tend to believe that it was caused by gulp-sass package, because it was the first error in the log, but I'll never know for sure, maybe it was just my fault. Doesn't matter already. And by the way, the tasks themselves were pretty simple.  
+And concerning second task, this is a clown fiesta. That thing is based on google web starter kit, which is not supported at the moment. I spent 3 hours trying to set up the project, and still didn't manage to do it. I tend to believe that it was caused by gulp-sass package, because it was the first error in the log, but I'll never know for sure, maybe it was just my fault. Doesn't matter already. And by the way, the tasks themselves were pretty simple.
+
+### R1D27 - Jan 27, 2018
+
+Didn't do much coding today unfortunately. Did some node app maintenance, had to remove part of the middleware and completely remove registration process, because it turned out to be difficult for users to go through that.
