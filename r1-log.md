@@ -114,3 +114,8 @@ And concerning second task, this is a clown fiesta. That thing is based on googl
 ### R1D27 - Jan 27, 2018
 
 Didn't do much coding today unfortunately. Did some node app maintenance, had to remove part of the middleware and completely remove registration process, because it turned out to be difficult for users to go through that.
+
+### R1D28 - Jan 28, 2018
+
+A lot of freeCodeCamp work done today, didn't count the number of challenges I managed to solve, but I'm coming really close to getting my first certificate. 
+Though, next 3 days are going to be really tough, as I got a test task from a company, which is quite hard after a brief look at it. Also got an interview appointment on the 1st of Feb. Hope I'll survive that and succeed in both.
