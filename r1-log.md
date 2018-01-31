@@ -127,3 +127,7 @@ Though, next 3 days are going to be really tough, as I got a test task from a co
 ### R1D30 - Jan 30, 2018
 
 13.5 hours of React in terms of a test task that I got from Unit9. The project is a React video player with custom control bar. Have implemented the bigger part of it, hopefully can finish it next day.
+
+### R1D31 - Jan 31, 2018
+
+Same things today, was working oon the React player. The functionality I was aiming for is finished, added some basic styling as well. Cleaning up the code tomorrow and submitting.
