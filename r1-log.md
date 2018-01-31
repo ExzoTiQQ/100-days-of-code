@@ -117,5 +117,13 @@ Didn't do much coding today unfortunately. Did some node app maintenance, had to
 
 ### R1D28 - Jan 28, 2018
 
+Was solving freeCodeCamp challenges & reading tech interview book.
+
+### R1D29 - Jan 29, 2018
+
 A lot of freeCodeCamp work done today, didn't count the number of challenges I managed to solve, but I'm coming really close to getting my first certificate. 
 Though, next 3 days are going to be really tough, as I got a test task from a company, which is quite hard after a brief look at it. Also got an interview appointment on the 1st of Feb. Hope I'll survive that and succeed in both.
+
+### R1D30 - Jan 30, 2018
+
+13.5 hours of React in terms of a test task that I got from Unit9. The project is a React video player with custom control bar. Have implemented the bigger part of it, hopefully can finish it next day.
