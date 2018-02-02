@@ -131,3 +131,7 @@ Though, next 3 days are going to be really tough, as I got a test task from a co
 ### R1D31 - Jan 31, 2018
 
 Same things today, was working oon the React player. The functionality I was aiming for is finished, added some basic styling as well. Cleaning up the code tomorrow and submitting.
+
+### R1D32 - Feb 1, 2018
+
+Was solving freecodecamp stuff, I'm coming really close to getting that certificate.
