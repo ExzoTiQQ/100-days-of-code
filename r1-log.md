@@ -139,3 +139,7 @@ Was solving freecodecamp stuff, I'm coming really close to getting that certific
 ### R1D33 - Feb 2, 2018
 
 Was solving freeCodeCamp challenges that day. Finished advanced algorithm scripting, nad that means I'm 4 projects away from getting the certificate.
+
+### R1D34 - Feb 3, 2018
+
+Solved some hackerrank challenges just for the sake of challenge.
