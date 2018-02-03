@@ -135,3 +135,7 @@ Same things today, was working oon the React player. The functionality I was aim
 ### R1D32 - Feb 1, 2018
 
 Was solving freecodecamp stuff, I'm coming really close to getting that certificate.
+
+### R1D33 - Feb 2, 2018
+
+Was solving freeCodeCamp challenges that day. Finished advanced algorithm scripting, nad that means I'm 4 projects away from getting the certificate.
