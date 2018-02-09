@@ -143,3 +143,11 @@ Was solving freeCodeCamp challenges that day. Finished advanced algorithm script
 ### R1D34 - Feb 3, 2018
 
 Solved some hackerrank challenges just for the sake of challenge.
+
+---
+Family vacation
+---
+
+### R1D35 - Feb 9, 2018
+
+Finally back on track. Did a lot of Java revision today, going to finish the course tomorrow and will try to build something fancy.
