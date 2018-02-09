@@ -144,9 +144,9 @@ Was solving freeCodeCamp challenges that day. Finished advanced algorithm script
 
 Solved some hackerrank challenges just for the sake of challenge.
 
----
-Family vacation
----
+___
+Unfortunately the streak was broken due to the family vacations.
+___
 
 ### R1D35 - Feb 9, 2018
 
