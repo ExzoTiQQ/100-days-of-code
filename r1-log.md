@@ -155,3 +155,7 @@ Finally back on track. Did a lot of Java revision today, going to finish the cou
 ### R1D36 - Feb 10, 2018
 
 Finished the sololearn Java course. Covered a lot of intermediate-ish topics today, got quite some new information. Back to JS tomorrow.
+
+### R1D37 - Feb 11, 2018
+
+Unfortunately didn't have much spare time today, did node app maintenance stuff today, and that's it :C
