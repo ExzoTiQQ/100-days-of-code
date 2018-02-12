@@ -159,3 +159,7 @@ Finished the sololearn Java course. Covered a lot of intermediate-ish topics tod
 ### R1D37 - Feb 11, 2018
 
 Unfortunately didn't have much spare time today, did node app maintenance stuff today, and that's it :C
+
+### R1D38 - Feb 12, 2018
+
+Built markup for the FCC calculator project
