@@ -162,4 +162,12 @@ Unfortunately didn't have much spare time today, did node app maintenance stuff 
 
 ### R1D38 - Feb 12, 2018
 
-Built markup for the FCC calculator project
+Built markup for the FCC calculator project.
+
+### R1D39 - Feb 13, 2018
+
+Lazy days :C Played sololearn javascript tricky challenges.
+
+### R1D40 - Feb 14, 2018
+
+Back to my Udemy course. Time to finish this one. React, node, express & mongo things.
