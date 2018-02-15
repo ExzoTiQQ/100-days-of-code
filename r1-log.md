@@ -171,3 +171,7 @@ Lazy days :C Played sololearn javascript tricky challenges.
 ### R1D40 - Feb 14, 2018
 
 Back to my Udemy course. Time to finish this one. React, node, express & mongo things.
+
+### R1D41 - Feb 15, 2018
+
+Played with node/mongo/express & React. Learned hw to call my node api from react frontend.
